@@ -1,0 +1,6 @@
+REFERENCE	 DEGRADED	 PESQMOS	 PESQMOS	 SUBJMOS	 COND	 SAMPLE_FREQ	 CRUDE_DELAY
+/home/mouwang/Work/ABSE/mini_data/test_speech/TEST_DR5_MRJM3_SI1809.WAV	 /home/mouwang/Work/ABSE/enh_wavs/test/0db/TEST_DR5_MRJM3_SI1809.n71.enh.wav	 SQValue=1.603	 1.603	 0.000	 0	 16000	0.0000
+ /home/mouwang/Work/ABSE/mini_data/test_speech/TEST_DR4_FDMS0_SX48.WAV	 /home/mouwang/Work/ABSE/enh_wavs/test/0db/TEST_DR4_FDMS0_SX48.n71.enh.wav	 SQValue=1.034	 1.034	 0.000	 0	 16000	0.0000
+ /home/mouwang/Work/ABSE/mini_data/test_speech/TEST_DR5_MRJM3_SI1809.WAV	 /home/mouwang/Work/ABSE/enh_wavs/test/0db/TEST_DR5_MRJM3_SI1809.n64.enh.wav	 SQValue=1.481	 1.481	 0.000	 0	 16000	0.0000
+ /home/mouwang/Work/ABSE/mini_data/test_speech/TEST_DR4_FDMS0_SX48.WAV	 /home/mouwang/Work/ABSE/enh_wavs/test/0db/TEST_DR4_FDMS0_SX48.n64.enh.wav	 SQValue=1.108	 1.108	 0.000	 0	 16000	0.0000
+ 
